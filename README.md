@@ -1,1 +1,1 @@
-[https://](https://branding-crwn.netlify.app)
+https://branding-crwn.netlify.app
